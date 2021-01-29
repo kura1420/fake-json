@@ -1,12 +1,12 @@
 {
-  "users": [
-    {
-      "nik": "123",
-      "password: "123"
-    },
-    {
-      "nik": "456",
-      "password": "456"
-    }
-  ]
+    "users": [
+        {
+            "nik": 123,
+            "password": "123"
+        },
+        {
+            "nik": 456,
+            "password": "456"
+        }
+    ]
 }
