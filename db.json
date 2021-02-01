@@ -1,14 +1,14 @@
 {
     "users": [
         {
-    "id": 1,
-    "name": "Root",
-    "email": "root@domain.com",
-    "api_token": null,
-    "email_verified_at": null,
-    "username": "142019",
-    "created_at": null,
-    "updated_at": null
-}
+            "id": 1,
+            "name": "Root",
+            "email": "root@domain.com",
+            "api_token": null,
+            "email_verified_at": null,
+            "username": "142019",
+            "created_at": null,
+            "updated_at": null
+        }
     ]
 }
