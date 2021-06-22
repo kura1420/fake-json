@@ -1,14 +1,17 @@
 {
     "posts": [
         {
-            "ittek": {
-                "voice": {
-                    "call-fake": true
-                }
-            }
+            "id": 1,
+            "title": "hello"
+        }
+    ],
+    "ittek": [
+        {
+            "id": "voice",
+            "call-face": true
         }
     ],
     "profile": {
-        "name": "kuradav"
+        "name": "typicode"
     }
 }
