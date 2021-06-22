@@ -8,7 +8,7 @@
     "ittek": [
         {
             "id": "voice",
-            "call-face": true
+            "call-fake": true
         }
     ],
     "profile": {
