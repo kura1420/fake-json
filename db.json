@@ -1,11 +1,7 @@
 {
-    "posts": [
-        {
-            "id": 1,
-            "title": "hello"
+    "ittek": {
+        "voice": {
+            "call-fake": true
         }
-    ],
-    "profile": {
-        "name": "typicode"
     }
 }
