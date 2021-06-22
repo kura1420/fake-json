@@ -1,7 +1,14 @@
 {
-    "ittek": {
-        "voice": {
-            "call-fake": true
+    "posts": [
+        {
+            "ittek": {
+                "voice": {
+                    "call-fake": true
+                }
+            }
         }
+    ],
+    "profile": {
+        "name": "kuradav"
     }
 }
