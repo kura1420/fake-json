@@ -27,5 +27,13 @@
             "nama": "Prof. Karley Harris",
             "gelar": "S.Kom"
         }
+    ],
+    "fakultas": [
+    	{
+    		"id" : "1",
+    		"singkatan" : "IK",
+    		"nama" : "Ilmu Kesehatan",
+    		"keterangan" : null
+    	}
     ]
 }
