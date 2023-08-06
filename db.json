@@ -7,7 +7,7 @@
     ],
     "mahasiswas": [
         {
-            "id": "1900928",
+            "id": "1",
             "nim": "1900928",
             "foto": "https://oss.urindo.ac.id/mahasiswa/foto/100_3.jpg",
             "nama": "Mr. Armando Jast MD",
@@ -22,18 +22,28 @@
     ],
     "dosens": [
         {
-            "id": "6966645",
+            "id": "1",
             "nidn": "6966645",
             "nama": "Prof. Karley Harris",
             "gelar": "S.Kom"
         }
     ],
     "fakultas": [
-    	{
-    		"id" : "1",
-    		"singkatan" : "IK",
-    		"nama" : "Ilmu Kesehatan",
-    		"keterangan" : null
-    	}
+        {
+            "id": "1",
+            "singkatan": "IK",
+            "nama": "Ilmu Kesehatan",
+            "keterangan": null
+        }
+    ],
+    "program_studis": [
+        {
+            "id": "1",
+            "singkatan": "IK-KM",
+            "nama": "Kesehatan Masyarakat",
+            "keterangan": null,
+            "fakulta_id": "64b7fbb3e8827",
+            "tingkat": "S1"
+        }
     ]
 }
