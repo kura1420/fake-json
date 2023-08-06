@@ -5,16 +5,18 @@
             "title": "hello"
         }
     ],
-    "mahasiswa": {
-        "nim": "1900928",
-        "foto": "https://oss.urindo.ac.id/mahasiswa/foto/100_3.jpg",
-        "nama": "Mr. Armando Jast MD",
-        "tanggal_lahir": "1986-08-30",
-        "jenis_kelamin": "l",
-        "email": "mgleichner@stehr.com",
-        "handphone": "852",
-        "alamat": "1959 Sydni Plaza Suite 674\nNorth Moses, HI 34486-9218",
-        "fakultas": null,
-        "program_studi": null
-    }
+    "mahasiswas": [
+        {
+            "nim": "1900928",
+            "foto": "https://oss.urindo.ac.id/mahasiswa/foto/100_3.jpg",
+            "nama": "Mr. Armando Jast MD",
+            "tanggal_lahir": "1986-08-30",
+            "jenis_kelamin": "l",
+            "email": "mgleichner@stehr.com",
+            "handphone": "852",
+            "alamat": "1959 Sydni Plaza Suite 674\nNorth Moses, HI 34486-9218",
+            "fakultas": null,
+            "program_studi": null
+        }
+    ]
 }
