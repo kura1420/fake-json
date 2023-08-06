@@ -19,5 +19,13 @@
             "fakultas": null,
             "program_studi": null
         }
-    ]
+    ],
+    "dosens": [
+		{
+			"id" : "6966645",
+			"nidn" : "6966645",
+			"nama" : "Prof. Karley Harris",
+			"gelar" : "S.Kom"
+		}
+	]
 }
