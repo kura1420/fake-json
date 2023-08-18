@@ -1,44 +1,722 @@
 {
+    "fakultas": [
+        {
+            "singkatan" : "IK",
+            "nama" : "Ilmu Kesehatan"
+        },
+        {
+            "singkatan" : "TI",
+            "nama" : "Teknologi Informasi"
+        },
+        {
+            "singkatan" : "MB",
+            "nama" : "Management Bisnis"
+        },
+        {
+            "singkatan" : "PT",
+            "nama" : "Pertanian"
+        },
+        {
+            "singkatan" : "DP",
+            "nama" : "Directorat Pascasarjana"
+        }
+    ],
+    "kejuruans": [
+        {
+            "singkatan": "IK-KM",
+            "nama": "Kesehatan Masyarakat",
+            "keterangan": null,
+            "tingkat": "S1"
+        },
+        {
+            "singkatan": "IK-KB",
+            "nama": "Kebidanan",
+            "keterangan": null,
+            "tingkat": "S1"
+        },
+        {
+            "singkatan": "IK-KP",
+            "nama": "Keperawatan",
+            "keterangan": null,
+            "tingkat": "S1"
+        },
+        {
+            "singkatan": "IK-PN",
+            "nama": "Profesi Ners",
+            "keterangan": null,
+            "tingkat": "Profesi"
+        },
+        {
+            "singkatan": "TI-IK",
+            "nama": "Ilmu Komputer",
+            "keterangan": null,
+            "tingkat": "S1"
+        },
+        {
+            "singkatan": "TI-SI",
+            "nama": "Sistem Informasi",
+            "keterangan": null,
+            "tingkat": "S1"
+        },
+        {
+            "singkatan": "MB-MG",
+            "nama": "Management",
+            "keterangan": null,
+            "tingkat": "S1"
+        },
+        {
+            "singkatan": "MB-AB",
+            "nama": "Administrasi Bisnis",
+            "keterangan": null,
+            "tingkat": "S1"
+        },
+        {
+            "singkatan": "PT-AG",
+            "nama": "Agroteknologi",
+            "keterangan": null,
+            "tingkat": "S1"
+        },
+        {
+            "singkatan": "DP-AB",
+            "nama": "Magister Administrasi Bisnis",
+            "keterangan": null,
+            "tingkat": "S2"
+        },
+        {
+            "singkatan": "DP-ARS",
+            "nama": "Magister Administrasi Rumah Sakit",
+            "keterangan": null,
+            "tingkat": "S2"
+        },
+        {
+            "singkatan": "DP-MPM",
+            "nama": "Kesehatan Masyarakat Program Magister",
+            "keterangan": null,
+            "tingkat": "S2"
+        }
+    ],
+    "dosens": [
+        {
+            "nidn": "6966645",
+            "nama": "Prof. Karley Harris",
+            "gelar": null,
+            "email": "dosen1@domain.com"
+        },
+        {
+            "nidn": "1942627",
+            "nama": "Jess Kunde",
+            "gelar": null,
+            "email": "dosen2@domain.com"
+        },
+        {
+            "nidn": "7815151",
+            "nama": "Dr. Kevon Senger Sr.",
+            "gelar": null,
+            "email": "dosen3@domain.com"
+        },
+        {
+            "nidn": "6928284",
+            "nama": "Liliana Bashirian",
+            "gelar": null,
+            "email": "dosen4@domain.com"
+        },
+        {
+            "nidn": "4832171",
+            "nama": "Nicola Pacocha",
+            "gelar": null,
+            "email": "dosen5@domain.com"
+        },
+        {
+            "nidn": "5115764",
+            "nama": "Dasia Sporer II",
+            "gelar": null,
+            "email": "dosen6@domain.com"
+        },
+        {
+            "nidn": "7056876",
+            "nama": "Effie Schroeder",
+            "gelar": null,
+            "email": "dosen7@domain.com"
+        },
+        {
+            "nidn": "7556643",
+            "nama": "Natalia White",
+            "gelar": null,
+            "email": "dosen8@domain.com"
+        },
+        {
+            "nidn": "3591359",
+            "nama": "Nannie Abernathy DDS",
+            "gelar": null,
+            "email": "dosen9@domain.com"
+        },
+        {
+            "nidn": "3028330",
+            "nama": "Mrs. Nikita Block",
+            "gelar": null,
+            "email": "dosen10@domain.com"
+        },
+        {
+            "nidn": "2167110",
+            "nama": "Mrs. Lindsay Lebsack I",
+            "gelar": null,
+            "email": "dosen11@domain.com"
+        },
+        {
+            "nidn": "8525453",
+            "nama": "Damaris Carter MD",
+            "gelar": null,
+            "email": "dosen12@domain.com"
+        },
+        {
+            "nidn": "3307617",
+            "nama": "Tate Hudson MD",
+            "gelar": null,
+            "email": "dosen13@domain.com"
+        },
+        {
+            "nidn": "8711151",
+            "nama": "Wilma Spinka",
+            "gelar": null,
+            "email": "dosen14@domain.com"
+        },
+        {
+            "nidn": "1423354",
+            "nama": "Dr. Ryann Satterfield IV",
+            "gelar": null,
+            "email": "dosen15@domain.com"
+        },
+        {
+            "nidn": "3085508",
+            "nama": "Caitlyn Johnson",
+            "gelar": null,
+            "email": "dosen16@domain.com"
+        },
+        {
+            "nidn": "2497498",
+            "nama": "Loraine Gibson",
+            "gelar": null,
+            "email": "dosen17@domain.com"
+        },
+        {
+            "nidn": "7863832",
+            "nama": "Prof. Torrance Stamm",
+            "gelar": null,
+            "email": "dosen18@domain.com"
+        },
+        {
+            "nidn": "5271977",
+            "nama": "Domenic Klein",
+            "gelar": null,
+            "email": "dosen19@domain.com"
+        },
+        {
+            "nidn": "1948035",
+            "nama": "Jett Koelpin",
+            "gelar": null,
+            "email": "dosen20@domain.com"
+        }
+    ],
     "mahasiswas": [
         {
-            "id": "1",
+            "nim": "6050316",
+            "foto": "https://picsum.photos/id/112/200/300",
+            "nama": "Karianne Lowe",
+            "tanggal_lahir": "1979-07-21",
+            "jenis_kelamin": "w",
+            "email": "pearline.baumbach@haag.org",
+            "handphone": "728",
+            "alamat": "964 Tillman Alley Suite 392\nHaagburgh, ID 84752-1578"
+        },
+        {
+            "nim": "7681797",
+            "foto": "https://picsum.photos/id/107/200/300",
+            "nama": "Miss Lavina Schinner IV",
+            "tanggal_lahir": "1989-10-22",
+            "jenis_kelamin": "w",
+            "email": "ted91@yahoo.com",
+            "handphone": "762",
+            "alamat": "667 Legros Ranch Apt. 549\nWardmouth, AZ 12744-5427"
+        },
+        {
             "nim": "1900928",
-            "foto": "https://oss.urindo.ac.id/mahasiswa/foto/100_3.jpg",
+            "foto": "https://picsum.photos/id/103/200/300",
             "nama": "Mr. Armando Jast MD",
             "tanggal_lahir": "1986-08-30",
             "jenis_kelamin": "l",
             "email": "mgleichner@stehr.com",
             "handphone": "852",
-            "alamat": "1959 Sydni Plaza Suite 674\nNorth Moses, HI 34486-9218",
-            "fakultas": null,
-            "program_studi": null
-        }
-    ],
-    "dosens": [
+            "alamat": "1959 Sydni Plaza Suite 674\nNorth Moses, HI 34486-9218"
+        },
         {
-            "id": "1",
-            "nidn": "6966645",
-            "nama": "Prof. Karley Harris",
-            "gelar": "S.Kom",
-            "email": "dosen@urindo.ac.id"
-        }
-    ],
-    "fakultas": [
+            "nim": "2273670",
+            "foto": "https://picsum.photos/id/106/200/300",
+            "nama": "Miss Marjory Koss",
+            "tanggal_lahir": "2022-07-16",
+            "jenis_kelamin": "w",
+            "email": "everett15@yahoo.com",
+            "handphone": "927",
+            "alamat": "402 Dolly Radial Apt. 716\nSouth Alford, OH 01831-5426"
+        },
         {
-            "id": "1",
-            "singkatan": "IK",
-            "nama": "Ilmu Kesehatan",
-            "keterangan": null
-        }
-    ],
-    "program_studis": [
+            "nim": "8368123",
+            "foto": "https://picsum.photos/id/111/200/300",
+            "nama": "Buddy Pagac",
+            "tanggal_lahir": "1990-06-13",
+            "jenis_kelamin": "l",
+            "email": "kristopher56@yahoo.com",
+            "handphone": "165",
+            "alamat": "731 Marisol Shore\nEast Shawnashire, NY 48009"
+        },
         {
-            "id": "1",
-            "singkatan": "IK-KM",
-            "nama": "Kesehatan Masyarakat",
-            "keterangan": null,
-            "fakulta_id": "64b7fbb3e8827",
-            "tingkat": "S1"
+            "nim": "3107913",
+            "foto": "https://picsum.photos/id/109/200/300",
+            "nama": "Prof. Lilliana Mueller",
+            "tanggal_lahir": "2020-01-22",
+            "jenis_kelamin": "w",
+            "email": "leuschke.rhoda@dach.biz",
+            "handphone": "762",
+            "alamat": "854 Nayeli Forges Suite 162\nLake Nyahport, AK 10738-7130"
+        },
+        {
+            "nim": "3539974",
+            "foto": "https://picsum.photos/id/113/200/300",
+            "nama": "Maximillia Hirthe",
+            "tanggal_lahir": "2020-10-20",
+            "jenis_kelamin": "w",
+            "email": "larson.kaden@hotmail.com",
+            "handphone": "634",
+            "alamat": "5815 Becker Falls\nBartonland, MN 96670-5269"
+        },
+        {
+            "nim": "5404109",
+            "foto": "https://picsum.photos/id/107/200/300",
+            "nama": "Marietta Torp",
+            "tanggal_lahir": "1986-09-04",
+            "jenis_kelamin": "w",
+            "email": "ondricka.therese@hotmail.com",
+            "handphone": "652",
+            "alamat": "444 Karianne View Suite 652\nKshlerinmouth, MT 66989-7604"
+        },
+        {
+            "nim": "5777853",
+            "foto": "https://picsum.photos/id/113/200/300",
+            "nama": "Gilberto Nitzsche",
+            "tanggal_lahir": "1982-03-29",
+            "jenis_kelamin": "l",
+            "email": "bledner@hotmail.com",
+            "handphone": "136",
+            "alamat": "969 Kutch Village\nWest Bud, KS 56597-9248"
+        },
+        {
+            "nim": "3320619",
+            "foto": "https://picsum.photos/id/106/200/300",
+            "nama": "Gerard Haag",
+            "tanggal_lahir": "1999-12-09",
+            "jenis_kelamin": "l",
+            "email": "xstroman@schultz.com",
+            "handphone": "983",
+            "alamat": "749 Rhea Ville Suite 313\nAdamsborough, MI 94571"
+        },
+        {
+            "nim": "8208511",
+            "foto": "https://picsum.photos/id/106/200/300",
+            "nama": "Mr. Chauncey Mayert PhD",
+            "tanggal_lahir": "1970-02-15",
+            "jenis_kelamin": "l",
+            "email": "alda36@ruecker.com",
+            "handphone": "339",
+            "alamat": "105 Henderson Knoll Apt. 251\nNorth Dinochester, NE 67545-2672"
+        },
+        {
+            "nim": "7179055",
+            "foto": "https://picsum.photos/id/103/200/300",
+            "nama": "Mr. Baylee Sporer Jr.",
+            "tanggal_lahir": "2007-08-02",
+            "jenis_kelamin": "l",
+            "email": "chesley88@reinger.com",
+            "handphone": "999",
+            "alamat": "1911 Hilpert Rest\nCasperfurt, AK 15635"
+        },
+        {
+            "nim": "6232752",
+            "foto": "https://picsum.photos/id/112/200/300",
+            "nama": "Bridie Carroll",
+            "tanggal_lahir": "1973-03-05",
+            "jenis_kelamin": "w",
+            "email": "vida.kling@bruen.com",
+            "handphone": "677",
+            "alamat": "410 Abdul Shores\nNew Oswald, WY 55257"
+        },
+        {
+            "nim": "7782654",
+            "foto": "https://picsum.photos/id/109/200/300",
+            "nama": "Macie Connelly MD",
+            "tanggal_lahir": "1979-05-07",
+            "jenis_kelamin": "w",
+            "email": "wintheiser.ricky@muller.biz",
+            "handphone": "200",
+            "alamat": "88514 Lebsack Grove Suite 928\nPort Rollinshire, MS 38737"
+        },
+        {
+            "nim": "9382134",
+            "foto": "https://picsum.photos/id/102/200/300",
+            "nama": "Rebeka Nolan",
+            "tanggal_lahir": "2011-03-28",
+            "jenis_kelamin": "w",
+            "email": "mills.cecil@kub.com",
+            "handphone": "350",
+            "alamat": "98861 Satterfield Gateway\nMarinaland, VT 14186-9611"
+        },
+        {
+            "nim": "3851017",
+            "foto": "https://picsum.photos/id/114/200/300",
+            "nama": "Wanda Quitzon",
+            "tanggal_lahir": "1975-10-01",
+            "jenis_kelamin": "w",
+            "email": "hdibbert@yahoo.com",
+            "handphone": "776",
+            "alamat": "7984 Hyatt Spurs Suite 631\nLinaton, NH 10713"
+        },
+        {
+            "nim": "9463057",
+            "foto": "https://picsum.photos/id/111/200/300",
+            "nama": "Kurtis Sporer",
+            "tanggal_lahir": "2016-09-24",
+            "jenis_kelamin": "l",
+            "email": "milo12@gmail.com",
+            "handphone": "118",
+            "alamat": "2700 Lonie Underpass Suite 106\nWintheiserberg, VT 51296-2184"
+        },
+        {
+            "nim": "7760887",
+            "foto": "https://picsum.photos/id/101/200/300",
+            "nama": "Sarai Hand",
+            "tanggal_lahir": "1972-05-04",
+            "jenis_kelamin": "w",
+            "email": "babshire@bailey.com",
+            "handphone": "329",
+            "alamat": "929 Russel Port\nDibbertside, MI 85011"
+        },
+        {
+            "nim": "6294882",
+            "foto": "https://picsum.photos/id/101/200/300",
+            "nama": "Mr. Dante Doyle",
+            "tanggal_lahir": "1996-07-19",
+            "jenis_kelamin": "l",
+            "email": "skiles.krystal@hotmail.com",
+            "handphone": "502",
+            "alamat": "7932 Aufderhar Port\nBrianaville, MN 76986-6671"
+        },
+        {
+            "nim": "1290904",
+            "foto": "https://picsum.photos/id/109/200/300",
+            "nama": "Nathaniel Gutkowski PhD",
+            "tanggal_lahir": "2011-05-13",
+            "jenis_kelamin": "l",
+            "email": "kaitlin.feil@yost.com",
+            "handphone": "698",
+            "alamat": "661 Turner Roads Suite 165\nWest Noah, LA 01254-2331"
+        },
+        {
+            "nim": "9663074",
+            "foto": "https://picsum.photos/id/106/200/300",
+            "nama": "Ms. Neoma Rippin PhD",
+            "tanggal_lahir": "1972-12-06",
+            "jenis_kelamin": "w",
+            "email": "layla.jacobson@yahoo.com",
+            "handphone": "319",
+            "alamat": "59416 Gutmann Spring Suite 154\nOttilieport, DE 69706-4198"
+        },
+        {
+            "nim": "8221624",
+            "foto": "https://picsum.photos/id/111/200/300",
+            "nama": "Prof. Lukas Orn",
+            "tanggal_lahir": "1977-05-13",
+            "jenis_kelamin": "l",
+            "email": "bill10@gmail.com",
+            "handphone": "605",
+            "alamat": "352 Lloyd Squares Suite 145\nSouth Haven, MO 68571-7039"
+        },
+        {
+            "nim": "2631621",
+            "foto": "https://picsum.photos/id/114/200/300",
+            "nama": "Mrs. Kyla Parisian",
+            "tanggal_lahir": "1971-02-23",
+            "jenis_kelamin": "w",
+            "email": "nkemmer@yahoo.com",
+            "handphone": "486",
+            "alamat": "63905 Devyn Views Apt. 098\nTrantowfort, OH 29223-7537"
+        },
+        {
+            "nim": "3728341",
+            "foto": "https://picsum.photos/id/101/200/300",
+            "nama": "Leda Williamson",
+            "tanggal_lahir": "1971-07-24",
+            "jenis_kelamin": "w",
+            "email": "noemi38@yahoo.com",
+            "handphone": "523",
+            "alamat": "47144 Franecki Track Apt. 006\nPenelopeville, WA 87762-1593"
+        },
+        {
+            "nim": "3350884",
+            "foto": "https://picsum.photos/id/108/200/300",
+            "nama": "Ms. Carlee DuBuque Sr.",
+            "tanggal_lahir": "2009-05-13",
+            "jenis_kelamin": "w",
+            "email": "nfisher@lesch.org",
+            "handphone": "475",
+            "alamat": "12342 Cole Union Suite 897\nLake Aubrey, DC 93734-3342"
+        },
+        {
+            "nim": "1413909",
+            "foto": "https://picsum.photos/id/103/200/300",
+            "nama": "Freeda Hermann IV",
+            "tanggal_lahir": "2011-08-14",
+            "jenis_kelamin": "w",
+            "email": "cassin.raphaelle@gmail.com",
+            "handphone": "917",
+            "alamat": "5394 Joanie Rue\nHayeschester, AK 97245"
+        },
+        {
+            "nim": "9756268",
+            "foto": "https://picsum.photos/id/106/200/300",
+            "nama": "Kellen Blanda",
+            "tanggal_lahir": "2009-02-13",
+            "jenis_kelamin": "l",
+            "email": "kevon27@gmail.com",
+            "handphone": "887",
+            "alamat": "18221 Brook Station\nSouth Afton, NC 77692"
+        },
+        {
+            "nim": "6219573",
+            "foto": "https://picsum.photos/id/103/200/300",
+            "nama": "Dr. Rosamond Walter",
+            "tanggal_lahir": "1988-05-05",
+            "jenis_kelamin": "w",
+            "email": "myrtle.schuster@walsh.net",
+            "handphone": "406",
+            "alamat": "56309 Hauck Camp\nWest Donnabury, AK 37523-1367"
+        },
+        {
+            "nim": "1805256",
+            "foto": "https://picsum.photos/id/108/200/300",
+            "nama": "Alvah Daugherty",
+            "tanggal_lahir": "1997-12-22",
+            "jenis_kelamin": "l",
+            "email": "wboyer@hotmail.com",
+            "handphone": "227",
+            "alamat": "3385 Legros Landing Apt. 986\nNew Izaiahborough, NE 08638"
+        },
+        {
+            "nim": "9826378",
+            "foto": "https://picsum.photos/id/106/200/300",
+            "nama": "Vergie Mraz II",
+            "tanggal_lahir": "2000-10-09",
+            "jenis_kelamin": "w",
+            "email": "brenna78@zulauf.com",
+            "handphone": "513",
+            "alamat": "2905 Graham Extensions Apt. 533\nAhmedland, NH 65904-7609"
+        },
+        {
+            "nim": "8742860",
+            "foto": "https://picsum.photos/id/111/200/300",
+            "nama": "Savanah Auer DDS",
+            "tanggal_lahir": "2017-08-02",
+            "jenis_kelamin": "w",
+            "email": "jamey.rutherford@hotmail.com",
+            "handphone": "386",
+            "alamat": "951 Rylee Fort Apt. 931\nWest Virginia, HI 91850-8180"
+        },
+        {
+            "nim": "5950171",
+            "foto": "https://picsum.photos/id/103/200/300",
+            "nama": "Reuben Blick",
+            "tanggal_lahir": "1993-08-03",
+            "jenis_kelamin": "l",
+            "email": "nsmith@torphy.org",
+            "handphone": "217",
+            "alamat": "8900 Schamberger Light Suite 103\nEmeliaview, IL 28124"
+        },
+        {
+            "nim": "7393342",
+            "foto": "https://picsum.photos/id/111/200/300",
+            "nama": "Harvey Herzog",
+            "tanggal_lahir": "1995-06-06",
+            "jenis_kelamin": "l",
+            "email": "csteuber@hotmail.com",
+            "handphone": "761",
+            "alamat": "467 Saul Street\nNorth Leonelfort, AL 46378-3562"
+        },
+        {
+            "nim": "6571900",
+            "foto": "https://picsum.photos/id/104/200/300",
+            "nama": "Jeanne Turner",
+            "tanggal_lahir": "1978-02-14",
+            "jenis_kelamin": "w",
+            "email": "troy55@kassulke.org",
+            "handphone": "632",
+            "alamat": "71261 Lebsack Bridge Suite 233\nPort Lamontbury, SC 73158"
+        },
+        {
+            "nim": "6306723",
+            "foto": "https://picsum.photos/id/106/200/300",
+            "nama": "Gideon Davis II",
+            "tanggal_lahir": "2014-01-22",
+            "jenis_kelamin": "l",
+            "email": "atremblay@yahoo.com",
+            "handphone": "632",
+            "alamat": "9856 Rippin Fords\nNorth Fannystad, ME 07919-0357"
+        },
+        {
+            "nim": "9627123",
+            "foto": "https://picsum.photos/id/101/200/300",
+            "nama": "Dr. Isabell O'Keefe PhD",
+            "tanggal_lahir": "1977-01-04",
+            "jenis_kelamin": "w",
+            "email": "denesik.brady@yahoo.com",
+            "handphone": "138",
+            "alamat": "4252 Brenda Gateway\nEast Kris, AR 14030-3656"
+        },
+        {
+            "nim": "4263986",
+            "foto": "https://picsum.photos/id/101/200/300",
+            "nama": "Gina Hackett",
+            "tanggal_lahir": "1998-11-23",
+            "jenis_kelamin": "w",
+            "email": "davis.diana@yundt.info",
+            "handphone": "363",
+            "alamat": "1508 Ulices Loop\nLake Valentin, WA 38619"
+        },
+        {
+            "nim": "2575156",
+            "foto": "https://picsum.photos/id/114/200/300",
+            "nama": "Blair Vandervort Sr.",
+            "tanggal_lahir": "2011-08-15",
+            "jenis_kelamin": "l",
+            "email": "wquigley@effertz.biz",
+            "handphone": "192",
+            "alamat": "8931 Skye Park\nAhmadfurt, VT 92127"
+        },
+        {
+            "nim": "4404377",
+            "foto": "https://picsum.photos/id/114/200/300",
+            "nama": "Haylie Feest",
+            "tanggal_lahir": "1991-05-02",
+            "jenis_kelamin": "w",
+            "email": "rory.hudson@hettinger.com",
+            "handphone": "722",
+            "alamat": "2834 Rubie Creek Apt. 772\nNew Greysonbury, NH 96398"
+        },
+        {
+            "nim": "2101869",
+            "foto": "https://picsum.photos/id/114/200/300",
+            "nama": "Humberto Senger",
+            "tanggal_lahir": "2003-08-04",
+            "jenis_kelamin": "l",
+            "email": "rhett81@hotmail.com",
+            "handphone": "217",
+            "alamat": "728 Huels Radial Suite 486\nEast Elroy, WI 54584-9620"
+        },
+        {
+            "nim": "9209590",
+            "foto": "https://picsum.photos/id/106/200/300",
+            "nama": "Shanie Gulgowski",
+            "tanggal_lahir": "1991-01-22",
+            "jenis_kelamin": "w",
+            "email": "cydney24@padberg.com",
+            "handphone": "567",
+            "alamat": "79570 Halvorson Inlet\nBlandaberg, AZ 91851-8435"
+        },
+        {
+            "nim": "1532426",
+            "foto": "https://picsum.photos/id/103/200/300",
+            "nama": "Reed Swaniawski",
+            "tanggal_lahir": "1978-04-05",
+            "jenis_kelamin": "l",
+            "email": "sshanahan@hamill.com",
+            "handphone": "502",
+            "alamat": "23040 Alexa Isle Suite 159\nMcGlynnton, WV 29559"
+        },
+        {
+            "nim": "3291214",
+            "foto": "https://picsum.photos/id/101/200/300",
+            "nama": "Celestino Lueilwitz",
+            "tanggal_lahir": "2017-03-26",
+            "jenis_kelamin": "l",
+            "email": "natasha62@feeney.info",
+            "handphone": "700",
+            "alamat": "9728 Doyle Highway Apt. 392\nSouth Adrainview, MA 91724-9815"
+        },
+        {
+            "nim": "7096825",
+            "foto": "https://picsum.photos/id/103/200/300",
+            "nama": "Rosina Reinger DDS",
+            "tanggal_lahir": "2019-01-30",
+            "jenis_kelamin": "w",
+            "email": "champlin.jeffery@hotmail.com",
+            "handphone": "770",
+            "alamat": "1137 Sherman Lodge Apt. 955\nO'Keefeview, MT 50069-9681"
+        },
+        {
+            "nim": "1654019",
+            "foto": "https://picsum.photos/id/103/200/300",
+            "nama": "Osbaldo Leannon",
+            "tanggal_lahir": "1987-02-06",
+            "jenis_kelamin": "l",
+            "email": "grant.stacy@gmail.com",
+            "handphone": "782",
+            "alamat": "465 O'Connell Trace\nSouth Jaylan, AL 44373-4806"
+        },
+        {
+            "nim": "5513003",
+            "foto": "https://picsum.photos/id/108/200/300",
+            "nama": "Larissa Gerlach",
+            "tanggal_lahir": "1979-03-04",
+            "jenis_kelamin": "w",
+            "email": "ukoch@yahoo.com",
+            "handphone": "294",
+            "alamat": "524 Providenci Hollow\nPort Johnathanfurt, TX 64095-8124"
+        },
+        {
+            "nim": "2838744",
+            "foto": "https://picsum.photos/id/105/200/300",
+            "nama": "Evert Kassulke",
+            "tanggal_lahir": "1973-09-28",
+            "jenis_kelamin": "l",
+            "email": "ffahey@corkery.com",
+            "handphone": "919",
+            "alamat": "927 Ian Meadow Apt. 967\nEast Janet, KY 54881-8489"
+        },
+        {
+            "nim": "9709338",
+            "foto": "https://picsum.photos/id/109/200/300",
+            "nama": "Dr. Tracey McLaughlin",
+            "tanggal_lahir": "1997-05-08",
+            "jenis_kelamin": "l",
+            "email": "mbreitenberg@yahoo.com",
+            "handphone": "584",
+            "alamat": "16764 Muhammad Island Suite 267\nDellahaven, MS 04454"
+        },
+        {
+            "nim": "3614611",
+            "foto": "https://picsum.photos/id/104/200/300",
+            "nama": "Julie Conn",
+            "tanggal_lahir": "2020-03-12",
+            "jenis_kelamin": "w",
+            "email": "marco.morissette@mosciski.com",
+            "handphone": "263",
+            "alamat": "16358 Ortiz Harbor\nLangberg, AR 15241-3384"
+        },
+        {
+            "nim": "5502438",
+            "foto": "https://picsum.photos/id/110/200/300",
+            "nama": "Dr. Katharina Walter",
+            "tanggal_lahir": "1976-03-04",
+            "jenis_kelamin": "w",
+            "email": "kristina62@hotmail.com",
+            "handphone": "649",
+            "alamat": "104 Jack Ford Apt. 286\nHoegershire, MN 95899"
         }
     ]
 }
